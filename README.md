@@ -3,7 +3,7 @@ Contains small scripts created for the sake of experimenting with different area
 
 ## authors and books
 
-- OOP-based menu for making associations with authors and books
+- OOP-based menu for making associations between authors and books
 
 ## celery
 
