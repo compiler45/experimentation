@@ -7,7 +7,7 @@ Contains small scripts created for the sake of experimenting with different area
 
 ## celery
 
-- Scripts running various celery tasks
+- Scripts running various simple celery tasks
 
 ## rabbitmq_stuff
 
